@@ -1,1 +1,1 @@
-# carlozed.github.io
+# blog-sample.github.io
